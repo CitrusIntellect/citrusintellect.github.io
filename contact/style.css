@@ -206,7 +206,7 @@ label.fcf-label {
 }
 
 .fcf-btn:hover {
-    color: #212529;
+    color: #E9A943;
     text-decoration: none;
 }
 
@@ -217,14 +217,14 @@ label.fcf-label {
 
 .fcf-btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #FFB847;
+    border-color: #FFB847;
 }
 
 .fcf-btn-primary:hover {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    background-color: #E9A943;
+    border-color: #E9A943;
 }
 
 .fcf-btn-primary:focus, .fcf-btn-primary.focus {
