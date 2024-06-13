@@ -46,35 +46,6 @@ body {
   box-sizing: border-box;
 }
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.side {
-  flex: 30%; 
-  background-color: #f1f1f1; 
-  padding: 20px; 
-}
-
-.main {
-  flex: 70%; 
-  background-color: white; 
-  padding: 20px; 
-}
-
-@media screen and (max-width: 700px) {
-  .row {
-    flex-direction: column;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .navbar a {
-    float: none;
-    width: 100%;
-  }
-}
 
 .footer {
   padding: 20px; 
@@ -102,7 +73,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #ffB94A;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -112,7 +83,7 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #EBAA43;
 }
 
 /* Add a background color and some padding around the form */
