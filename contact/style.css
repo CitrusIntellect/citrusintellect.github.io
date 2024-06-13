@@ -175,14 +175,14 @@ label.fcf-label {
 }
 
 .fcf-credit a:hover {
-    color: #0056b3;
+    color: #E9A943;
     text-decoration: underline;
 }
 
 .fcf-btn {
     display: inline-block;
     font-weight: 400;
-    color: #212529;
+    color: #FFB949;
     text-align: center;
     vertical-align: middle;
     cursor: pointer;
