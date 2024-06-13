@@ -2,8 +2,8 @@
 if (isset($_POST['Email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "you@yourdomain.com";
-    $email_subject = "New form submissions";
+    $email_to = "citrusintellect@protonmail.com";
+    $email_subject = "New form submissions - citrusintellect.github.io";
 
     function problem($error)
     {
