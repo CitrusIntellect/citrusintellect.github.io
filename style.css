@@ -1,6 +1,9 @@
 .header{
   background-color: orange;
-  text-size: 30px;
   text-align: center;
   padding: 80px;
+}
+
+.header h1{
+  text-size: 40px;
 }
