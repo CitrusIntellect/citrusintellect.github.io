@@ -19,47 +19,29 @@
     <a href="/contact">Contact Me!</a>
     <a href="https://citrusintellect.github.io" class="right">Home</a>
   </div>
-
-  <div class="fcf-body">
-
-    <div id="fcf-form">
-    <h3 class="fcf-h3">Contact us</h3>
-
-    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
-        
-        <div class="fcf-form-group">
-            <label for="Name" class="fcf-label">Your name</label>
-            <div class="fcf-input-group">
-                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
-            </div>
-        </div>
-
-        <div class="fcf-form-group">
-            <label for="Email" class="fcf-label">Your email address</label>
-            <div class="fcf-input-group">
-                <input type="email" id="Email" name="Email" class="fcf-form-control" required>
-            </div>
-        </div>
-
-        <div class="fcf-form-group">
-            <label for="Message" class="fcf-label">Your message</label>
-            <div class="fcf-input-group">
-                <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
-            </div>
-        </div>
-
-        <div class="fcf-form-group">
-            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
-        </div>
-
-        <div class="fcf-credit" id="fcf-credit">
-        Simple HTML email form provided by <a href="https://www.majesticform.com" target="_blank">MajesticForm</a>
-        </div>
-
+    <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScXLh41oqtkX9UH12mPlprOs_LHZOpSjxnWzpAKYdQkdUrKNQ/ormResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+      First name:<br>
+      <input type="text" name="entry.866935495" id="entry.866935495">
+      Last name:<br>
+      <input type="text" name="entry.955396416" id="entry.955396416">
+      Email:<br>
+      <input type="text" name="entry.1347317485" id="entry.1347317485">
+      Message:<br>
+      <input type="text" name="entry.1170125324" id="entry.1170125324">
+      <input type="submit" value="Submit">
     </form>
-    </div>
 
-</div>
+  <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+  <script src="assets/js/jquery.min.js"></script>
+  <script type="text/javascript">var submitted=false;</script>
+  <script type="text/javascript">
+  $('#gform').on('submit', function(e) {
+    $('#gform *').fadeOut(2000);
+    $('#gform').prepend('Your submission has been processed...');
+    });
+  </script>
+
 
 
 
