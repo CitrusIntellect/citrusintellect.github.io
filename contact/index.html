@@ -8,36 +8,29 @@
 </head>
 <body>
 
-  <div class="header">
-    <h1>Citrus' Website</h1>
-    <p>A website by Citrus</p>
-  </div>
-  
-  <div class="navbar">
-    <a href="/about">About</a>
-    <a href="/projects">Projects</a>
-    <a href="/contact">Contact Me!</a>
-    <a href="https://citrusintellect.github.io" class="right">Home</a>
-  </div>
+<div class="container">
+  <form action="action_page.php">
 
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-  <div class="row">
-    <div class="side">
-      <h3>Contact Me!</h3>
-      <p>Please Do not Spam as I will block you and report you as spam!</p>
-      <div class="spacer">
-      </div>
-    </div>
-    
-    <div class="main">
-      <h2>You can find me on Discord and Email</h2>
-      <p>Discord: citrusintellect</p>
-      <p>Discord 2: cybercitrus.security</p>
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
 
-      <p>Email: citrusintellect@protonmail.com</p>
-    </div>
-  </div>
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
 
   
   <div class="footer">
