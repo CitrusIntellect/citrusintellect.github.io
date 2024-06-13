@@ -1,1 +1,6 @@
-
+.header{
+  background-color: orange;
+  text-size: 30px;
+  text-alignment: center;
+  padding: 80px;
+}
