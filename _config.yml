@@ -18,8 +18,7 @@ title: CitrusIntellect's Webiste # the main title
 
 tagline: CitrusIntellect's Website for bloging and documentation # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  CitrusIntellect's Website for bloging and documentation
+description: CitrusIntellect's Website for bloging and documentation
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
