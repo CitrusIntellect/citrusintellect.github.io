@@ -17,7 +17,7 @@ This can lead to well over 10 config files per install. (I have about 20 config 
 
 
 > If you cant already tell, hyprland is a "Do it yourself" GUI (NOT DE) similar to Arch Linux, please gain an understanding on how hyprland works before attempting to install.
-{: .prompt-tip }
+{: .prompt-warning }
 
 
 Why would you use Hyprland?
@@ -50,7 +50,7 @@ Yes I said that right. My chromebook is rooted. In the future I will post about 
 To note Rooting your chromebook can destroy your chromebook. I am running Arch Linux (With Archinstall) on my chromebook. I used arch install as I needed this chromebook up as fast as possible as I use it for school.
 
 > Only attempt if you know for sure you know what your doing
-{: prompt-warn }
+{: prompt-warning }
 
 Would you recomend Hyprland?
 ============================
