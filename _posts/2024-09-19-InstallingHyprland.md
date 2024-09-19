@@ -50,7 +50,7 @@ Yes I said that right. My chromebook is rooted. In the future I will post about 
 To note Rooting your chromebook can destroy your chromebook. I am running Arch Linux (With Archinstall) on my chromebook. I used arch install as I needed this chromebook up as fast as possible as I use it for school.
 
 > Only attempt if you know for sure you know what your doing
-{: prompt-warning }
+{: prompt-warn }
 
 Would you recomend Hyprland?
 ============================
