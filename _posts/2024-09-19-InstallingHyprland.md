@@ -6,8 +6,8 @@ tags: [post]     # TAG names should always be lowercase
 description: How learning Hyprland gave me complete control over my computer and a deeper understanding of linux.
 ---
 
-What is Hyprland?
-=================
+# What is Hyprland?
+
 
 [Hyprland](https://hyprland.org/) is a Tiling Wayland Compositor that the user has to configure by them self, Heh, its like Arch Linux. Hyprland is just a Compositor, NOT a desktop environment. The diffrent is that a Wayland Compositor uses a bunch of keybinds compaired
 to a traditional Desktop Environment (Like KDE). Hyprland usually only has a few features, but hyprland is mostly paired with alot of other apps like [Waybar](https://github.com/Alexays/Waybar), \
@@ -20,8 +20,8 @@ This can lead to well over 10 config files per install. (I have about 20 config 
 {: .prompt-warning }
 
 
-Why would you use Hyprland?
-===========================
+# Why would you use Hyprland?
+
 
 There are many advantages to using hyprland, for 1. You can customize to your heart's consent. Unlike KDE, almost anything is possible as you can add extra functionality (officially supported) to hyprland. 2. Preformance, even though hyprland
 looks very resource heavy, it actually is not that heavy compaired to a Desktop Environment like KDE Desktop becuase hyprland is not a service but an executable, all of the plugins are executables, there are very little serivces for hyprland to work
@@ -34,8 +34,8 @@ properly. 3. The community is huge, there is custom installers (Not reccomended)
 {: .prompt-danger }
 
 
-Where are your configs?
-=======================
+# Where are your configs?
+
 Well they will be on my [Github](https://github.com/CitrusIntellect) in a few days. I will update this when it is ready as I have multiple devices running hyprland + arch linux.
 
 I am running Hyprland on my Rooted Chromebook with Arch Linux and my main PC, which is taking a bit to configure.
@@ -44,21 +44,21 @@ Note, I used [Arch-Everforest](https://github.com/3rfaan/arch-everforest/tree/ma
 > Please note, do not use my configs on your main pc. Modify my configs first before using them as my configs can easily break your install.
 {: .prompt-danger }
 
-Rooted Chromebook
-=================
+# Rooted Chromebook
+
 Yes I said that right. My chromebook is rooted. In the future I will post about it but It will take a bit. If your wondering I used [Mr. Chromebox's Method](https://docs.mrchromebox.tech/) for rooting
 To note Rooting your chromebook can destroy your chromebook. I am running Arch Linux (With Archinstall) on my chromebook. I used arch install as I needed this chromebook up as fast as possible as I use it for school.
 
 > Only attempt if you know for sure you know what your doing
 {: prompt-warning }
 
-Would you recomend Hyprland?
-============================
+# Would you recomend Hyprland?
+
 Yes, but only with Arch Linux, my reasoning for this is becuase everything is on the AUR. Also if something breaks the user will understand how to fix it. Most install guide's or installers are for Arch Linux.
 
 
-When will your next post be?
-============================
+# When will your next post be?
+
 Well maybe 2-3 Weeks, I am busy right now and I am also trying to deal with School + Making a discord server. Also finishing up hyprland configs.
 
 
