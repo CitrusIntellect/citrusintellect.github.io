@@ -36,7 +36,7 @@ properly. 3. The community is huge, there is custom installers (Not reccomended)
 
 Where are your configs?
 =======================
-Well they will be on my [Github](github.com/CitrusIntellect) in a few days. I will update this when it is ready as I have multiple devices running hyprland + arch linux.
+Well they will be on my [Github](https://github.com/CitrusIntellect) in a few days. I will update this when it is ready as I have multiple devices running hyprland + arch linux.
 
 I am running Hyprland on my Rooted Chromebook with Arch Linux and my main PC, which is taking a bit to configure.
 Note, I used [Arch-Everforest](https://github.com/3rfaan/arch-everforest/tree/main?) configs as my base, please give support to the original creator.
