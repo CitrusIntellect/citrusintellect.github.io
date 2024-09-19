@@ -17,7 +17,7 @@ This can lead to well over 10 config files per install. (I have about 20 config 
 
 
 > If you cant already tell, hyprland is a "Do it yourself" GUI (NOT DE) similar to Arch Linux, please gain an understanding on how hyprland works before attempting to install.
-{: .prompt-hint }
+{: .prompt-tip }
 
 
 Why would you use Hyprland?
