@@ -83,3 +83,4 @@ Intel -
 Youtube Videos -
 - [Recall - Mental Outlaw](https://www.youtube.com/watch?v=rhhTOYCEgGo&pp=ygUQTWljcm9zb2Z0IFJlY2FsbA%3D%3D)
 - [Devin AI - Firehsip](https://www.youtube.com/watch?v=AgyJv2Qelwk)
+- [AI - Linus Tech Tips](https://www.youtube.com/watch?v=nGIpdiQrFDU)
